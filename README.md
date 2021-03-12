@@ -6,11 +6,11 @@
 Lightweight boilerplate project to setup a React 16 web application on AWS Lambda using the Serverless Framework.
 
 ### Favorite gits:
-[![serverless](https://github.com/naretini/reactjs-typescript-auth0/blob/327b776571ce6e643f7856a54d509a21207ac792/src/Auth/Auth.tsx)
-[![serverless](https://github.com/yemiwebby/nest-react-project)
-[![serverless](https://github.com/auth0-blog/nest-react-blog-ga/blob/865476c7afab83ddc45b2f4560e368c68d73d747/blog-frontend/src/contexts/auth0-context.tsx)
-[![serverless](https://github.com/auth0-blog/auth0-react-sample-classes)
-[![serverless](https://github.com/arabold/serverless-react-boilerplate/tree/feature/add-react-router)
+[Auth.tsx](https://github.com/naretini/reactjs-typescript-auth0/blob/327b776571ce6e643f7856a54d509a21207ac792/src/Auth/Auth.tsx)
+[Nest.js, TypeScript, React and MongoDB](https://github.com/yemiwebby/nest-react-project)
+[auth0-context.tsx](https://github.com/auth0-blog/nest-react-blog-ga/blob/865476c7afab83ddc45b2f4560e368c68d73d747/blog-frontend/src/contexts/auth0-context.tsx)
+[auth0](https://github.com/auth0-blog/auth0-react-sample-classes)
+[serverless](https://github.com/arabold/serverless-react-boilerplate/tree/feature/add-react-router)
 
 
 
